@@ -1,0 +1,7 @@
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/day1.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/ajinis/code/aoc-2024-cpp/day1/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
